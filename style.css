@@ -112,3 +112,20 @@ body{
       margin: 30px;
 
   }
+  .contain{
+    display: flex;
+    margin-left: 130px;
+}
+.develpolimits{
+    background-image: url(shape-1.png);
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position-x: 48px;
+    background-position-y: 45px;
+}
+.codingimage img{
+    width: 380px;
+}
+.develop{
+    padding-left: 130px;
+}
