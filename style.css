@@ -142,4 +142,24 @@ body{
     background-position-x: 1200px;
     background-position-y: 241px;
   }
-  
+ 
+#footer {
+    background-color: #0b0d17;
+    margin-top: 50px;
+  }
+  #footer .content-area {
+    text-align: center;
+  }
+  #footer h2 {
+    font-family: "Lobster", cursive;
+    font-size: 36px;
+    line-height: 44px;
+    letter-spacing: 0.5px;
+    color: white;
+  }
+  #footer p {
+    color: white;
+  }
+  #footer .content-area {
+    padding: 46px 0px;
+  }
