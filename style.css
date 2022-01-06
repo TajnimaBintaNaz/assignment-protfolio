@@ -129,3 +129,17 @@ body{
 .develop{
     padding-left: 130px;
 }
+.community{
+    width: 780px; 
+  }
+  .pad{
+      padding-left: 30px;
+  }
+  .knowcommunity{
+    background-image: url(shape-1.png);
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position-x: 1200px;
+    background-position-y: 241px;
+  }
+  
